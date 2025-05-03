@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Jayden+Xu&center=true&size=18&color=58A6FF&speed=50&repeat=false">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=B.S.+@+SJTU,+M.S.+@+UMSI&center=true&size=18&color=58A6FF&speed=50&repeat=false">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Interested+in+GenAI+Engineering&center=true&size=18&color=58A6FF&speed=50&repeat=false">
+</p>
 
-<!--
-**Jayden-Xu/Jayden-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayden-Xu&layout=compact&hide=Jupyter%20Notebook" width="350">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
