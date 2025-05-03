@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=B.S.+@+SJTU,+M.S.+@+UMSI&center=true&size=18&color=58A6FF&speed=50&repeat=false">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Interested+in+GenAI+Eng&Ops&center=true&size=18&color=58A6FF&speed=50&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Interested+in+GenAI+Eng\&Ops&center=true&size=18&color=58A6FF&speed=50&repeat=false">
 </p>
 
 <p align="center">
